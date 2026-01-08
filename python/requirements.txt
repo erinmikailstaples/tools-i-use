@@ -1,0 +1,28 @@
+# Common Python development tools
+# Install with: uv pip install -r requirements.txt
+
+# Linting and formatting
+ruff
+black
+mypy
+pylint
+
+# Testing
+pytest
+pytest-cov
+pytest-asyncio
+
+# Development utilities
+ipython
+jupyterlab
+
+# HTTP and APIs
+requests
+httpx
+
+# Data processing
+pandas
+numpy
+
+# Environment management
+python-dotenv
