@@ -56,10 +56,17 @@ cask "font-hack-nerd-font"
 # Applications
 cask "visual-studio-code"
 cask "iterm2"
+cask "warp"  # Modern terminal
 cask "docker"
 cask "postman"
 cask "rectangle"  # Window management
 cask "raycast"  # Spotlight replacement
+cask "fantastical"  # Calendar app
+cask "obsidian"  # Note-taking and knowledge management
+cask "slack"  # Team communication
+cask "whatsapp"  # Messaging
+cask "zoom"  # Video conferencing
+cask "amphetamine"  # Keep Mac awake utility
 
 # Developer advocate tools
 cask "loom"  # Quick video recording and sharing

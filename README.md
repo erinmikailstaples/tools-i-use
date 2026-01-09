@@ -47,10 +47,17 @@ chmod +x setup.sh
 ### Applications (via Homebrew Cask)
 - Visual Studio Code
 - iTerm2
+- Warp (modern terminal)
 - Docker Desktop
 - Postman
 - Rectangle (window management)
 - Raycast (Spotlight replacement)
+- Fantastical (calendar)
+- Obsidian (note-taking)
+- Slack (team communication)
+- WhatsApp (messaging)
+- Zoom (video conferencing)
+- Amphetamine (keep Mac awake)
 - Nerd Fonts (Fira Code, JetBrains Mono, Hack)
 
 ### Developer Advocate Tools
